@@ -49,3 +49,5 @@ This Linux hardening tool reduces system vulnerabilities by 30% and achieves 95%
 ## Documentation
 - [Usage](docs/usage.md)
 - [Revert Changes](docs/revert_changes.md)
+
+
